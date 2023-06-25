@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "588fcbef15501db1",
+        "id": "6f61dacdd024e4d1",
         "type": "tabs",
         "children": [
           {
-            "id": "53a30700cd970513",
+            "id": "8890c9b6f99bb940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "培养抓住要点的能力.md",
+                "file": "自我概念：我是谁.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "培养抓住要点的能力.md",
+                "file": "自我概念：我是谁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "培养抓住要点的能力.md",
+                "file": "自我概念：我是谁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "培养抓住要点的能力.md"
+                "file": "自我概念：我是谁.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,34 +156,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53a30700cd970513",
+  "active": "8890c9b6f99bb940",
   "lastOpenFiles": [
-    "扭曲事实还是现实主义.md",
+    "第 2 章 社会中的自我.md",
+    "自我概念：我是谁.md",
+    "焦点和错觉：对了解我们自己的启示.md",
+    "自我.md",
+    "焦点效应和透明度错觉之间的关系.md",
+    "透明度错觉.md",
+    "焦点效应.md",
+    "《社会心理学》.md",
     "伴随行为问题的认知过程.md",
-    "安慰剂效应.md",
-    "2023-02-27.md",
-    "2023-03-01.md",
-    "2023-03-09.md",
-    "《卡片笔记写作法》.md",
-    "自我设限.md",
-    "自我证实诊断.md",
-    "README.md",
-    "View 的事件分发机制.md",
-    "解释风格与疾病.md",
-    "自我服务偏差.md",
-    "自我暴露.md",
-    "主诉问题.md",
-    "直觉判断.md",
-    "在卡片盒内思考.md",
+    "第 14 章 社会心理学在临床领域中的应用.md",
+    "导致临床诊断偏差的原因.md",
+    "社会关系对健康和幸福感的促进.md",
+    "亲密关系与健康.md",
+    "倾诉与健康.md",
+    "贫穷、不平等与健康.md",
+    "亲密关系与幸福感.md",
+    "友谊和幸福.md",
+    "婚姻依恋与幸福.md",
+    "后记：提升幸福感.md",
     "有助于治疗的社会心理方法.md",
-    "引起孤独的原因.md",
-    "抑郁心境导致负性思维.md",
-    "抑郁现实主义.md",
-    "抑郁.md",
-    "也许你该找个人聊聊.md",
-    "压力与疾病.md",
-    "幸存者偏差.md",
-    "行为对态度的影响.md",
+    "通过对成功作内在归因维持变化.md",
+    "通过社会影响来进行治疗.md",
+    "自我效能.md",
+    "打破恶性循环.md",
+    "社会技能训练.md",
+    "解释风格疗法.md",
     "Untitled.canvas"
   ]
 }
