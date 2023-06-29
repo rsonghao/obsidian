@@ -13,14 +13,158 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他人的评价.md",
+                "file": "个人主义.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cffc17cd5af54b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad1582628421a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-10-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "402b8fdae0495c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-01-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88c5f169747d42a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-02-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7f330587b1d6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f5e1a24b720f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-02-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56013a524634b73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8d62cc7a31b25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62a517fa5fda0a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2018-11-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55111849c1a182e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03-31.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f958df01791e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-03-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -39,7 +183,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -94,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他人的评价.md",
+                "file": "2022-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他人的评价.md",
+                "file": "2022-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他人的评价.md"
+                "file": "2022-03-13.md"
               }
             }
           }
@@ -156,10 +300,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8890c9b6f99bb940",
+  "active": "e514c164e899b360",
   "lastOpenFiles": [
+    "2018-11-24.md",
+    "2022-03-31.md",
+    "2022-04-09.md",
+    "2022-02-13.md",
+    "2022-03-04.md",
+    "2022-02-24.md",
+    "2022-01-30.md",
+    "2021-10-29.md",
+    "2022-03-18.md",
+    "2021-06-08.md",
+    "2022-03-13.md",
+    "Daily notes",
+    "个人主义.md",
+    "自我与文化.md",
     "社会自我的发展.md",
     "其他人的评价.md",
+    "镜像自我.md",
     "社会比较.md",
     "我们扮演的角色.md",
     "自我概念：我是谁.md",
@@ -169,21 +328,6 @@
     "自我图式.md",
     "第 2 章 社会中的自我.md",
     "焦点和错觉：对了解我们自己的启示.md",
-    "自我.md",
-    "焦点效应和透明度错觉之间的关系.md",
-    "透明度错觉.md",
-    "焦点效应.md",
-    "《社会心理学》.md",
-    "伴随行为问题的认知过程.md",
-    "第 14 章 社会心理学在临床领域中的应用.md",
-    "导致临床诊断偏差的原因.md",
-    "社会关系对健康和幸福感的促进.md",
-    "亲密关系与健康.md",
-    "倾诉与健康.md",
-    "贫穷、不平等与健康.md",
-    "亲密关系与幸福感.md",
-    "友谊和幸福.md",
-    "婚姻依恋与幸福.md",
     "Untitled.canvas"
   ]
 }
