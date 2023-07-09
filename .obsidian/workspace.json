@@ -8,54 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "143bf5b0a2d65b42",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "45f5e749ec00717e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《学会提问》/《学会提问》.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9faf34ad43d8c171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文化与认知.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3c66f5171b13f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "集合.md",
+                "file": "数组的操作.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "集合.md",
+                "file": "数组的操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "集合.md",
+                "file": "数组的操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "集合.md"
+                "file": "数组的操作.md"
               }
             }
           }
@@ -193,9 +158,13 @@
   },
   "active": "a3c66f5171b13f73",
   "lastOpenFiles": [
-    "集合、列表和数组.md",
-    "集合.md",
     "数组简介.md",
+    "数组的操作.md",
+    "数组.md",
+    "集合、列表和数组.md",
+    "Pasted image 20230709125302.png",
+    "列表.md",
+    "集合.md",
     "数组和字符串.md",
     "文化与认知.md",
     "自我与文化.md",
@@ -220,9 +189,6 @@
     "Daily notes/2021-06-08.md",
     "Daily notes",
     "社会自我的发展.md",
-    "其他人的评价.md",
-    "镜像自我.md",
-    "社会比较.md",
     "Untitled.canvas"
   ]
 }
