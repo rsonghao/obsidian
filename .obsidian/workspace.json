@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数组的操作.md",
+                "file": "二维数组简介.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数组的操作.md",
+                "file": "二维数组简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数组的操作.md",
+                "file": "二维数组简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数组的操作.md"
+                "file": "二维数组简介.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "a3c66f5171b13f73",
   "lastOpenFiles": [
+    "数组和字符串.md",
+    "二维数组简介.md",
     "数组简介.md",
     "数组的操作.md",
     "数组.md",
@@ -165,7 +167,6 @@
     "Pasted image 20230709125302.png",
     "列表.md",
     "集合.md",
-    "数组和字符串.md",
     "文化与认知.md",
     "自我与文化.md",
     "个人主义在文化中的滋长.md",
@@ -188,7 +189,6 @@
     "Daily notes/2022-03-18.md",
     "Daily notes/2021-06-08.md",
     "Daily notes",
-    "社会自我的发展.md",
     "Untitled.canvas"
   ]
 }
