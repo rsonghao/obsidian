@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3c66f5171b13f73",
+            "id": "a373d910e54e9b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二维数组简介.md",
+                "file": "令人困惑的平均值.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二维数组简介.md",
+                "file": "令人困惑的平均值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二维数组简介.md",
+                "file": "令人困惑的平均值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二维数组简介.md"
+                "file": "令人困惑的平均值.md"
               }
             }
           }
@@ -156,8 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3c66f5171b13f73",
+  "active": "a373d910e54e9b29",
   "lastOpenFiles": [
+    "《学会提问》/11 数据有没有欺骗性.md",
+    "令人困惑的平均值.md",
+    "《学会提问》/不知来历和带有偏见的数据.md",
+    "人身攻击型谬误.md",
+    "谬误.md",
+    "找出谬误.md",
+    "用质疑的方法找出论证中的谬误.md",
+    "《学会提问》/07 论证中没有谬误.md",
+    "关键问题.md",
+    "《学会提问》/歧义、定义和字典.md",
+    "《学会提问》/《学会提问》.md",
+    "字符串简介.md",
     "数组和字符串.md",
     "二维数组简介.md",
     "数组简介.md",
@@ -172,22 +184,10 @@
     "个人主义在文化中的滋长.md",
     "集体主义.md",
     "个人主义.md",
-    "《学会提问》/歧义、定义和字典.md",
-    "《学会提问》/《学会提问》.md",
     "Untitled",
     "《社会心理学》",
     "Daily notes/2022-03-13.md",
     "《学会提问》",
-    "Daily notes/2018-11-24.md",
-    "Daily notes/2022-03-31.md",
-    "Daily notes/2022-04-09.md",
-    "Daily notes/2022-02-13.md",
-    "Daily notes/2022-03-04.md",
-    "Daily notes/2022-02-24.md",
-    "Daily notes/2022-01-30.md",
-    "Daily notes/2021-10-29.md",
-    "Daily notes/2022-03-18.md",
-    "Daily notes/2021-06-08.md",
     "Daily notes",
     "Untitled.canvas"
   ]
